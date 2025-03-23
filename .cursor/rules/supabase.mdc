@@ -1,0 +1,9 @@
+---
+description: 
+globs: *.ts
+alwaysApply: false
+---
+Supabase Guidelines
+- Use named queries with proper error handling for all database operations.
+- Structure data access through service/repository patterns.
+- Use RLS (Row Level Security) for all table access.

@@ -1,0 +1,10 @@
+---
+description: 
+globs: *.tsx
+alwaysApply: false
+---
+Shadcn UI Guidelines
+- Follow compositional pattern with proper component destructuring.
+- Maintain proper theming and variant handling.
+- Ensure all component props are properly typed.
+- Use Shadcn's form hooks with proper validation.

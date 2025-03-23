@@ -1,0 +1,10 @@
+---
+description: 
+globs: *.tsx,*.ts
+alwaysApply: false
+---
+TypeScript Guidelines
+- Use explicit typing rather than relying on inference when function interfaces are complex.
+- Leverage union types, discriminated unions, and generics appropriately.
+- Use interface for public APIs and type for complex types, unions, and intersections.
+- Create reusable type utilities for common patterns.

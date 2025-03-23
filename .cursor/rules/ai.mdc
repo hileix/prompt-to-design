@@ -1,0 +1,10 @@
+---
+description: 
+globs: app/api/**/*.ts
+alwaysApply: false
+---
+AI Integration Guidelines
+- Implement streaming responses when possible.
+- Add proper error handling for AI service failures.
+- Use type-safe prompt templates.
+- Implement proper rate limiting and fallback strategies.

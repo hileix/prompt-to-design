@@ -1,0 +1,9 @@
+---
+description: 
+globs: *.tsx,*.css
+alwaysApply: false
+---
+Styling Guidelines
+- Always use Tailwind classes for styling HTML elements; avoid using CSS or tags.
+- Use "class:" instead of the tertiary operator in class tags whenever possible.
+- Use CSS variables for theming when extending Tailwind.

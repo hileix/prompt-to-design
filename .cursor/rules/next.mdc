@@ -1,0 +1,11 @@
+---
+description: 
+globs: *.tsx
+alwaysApply: false
+---
+React/Next.js Guidelines
+- Use functional components with hooks instead of class components.
+- Implement proper useEffect cleanup functions to prevent memory leaks.
+- Use Next.js server components where appropriate for performance.
+- Leverage React Suspense and Error Boundaries for better UX.
+- Follow proper component composition patterns.

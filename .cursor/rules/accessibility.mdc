@@ -1,0 +1,10 @@
+---
+description: 
+globs: *.tsx,*.ts
+alwaysApply: false
+---
+Accessibility Guidelines
+- Implement accessibility features on all interactive elements.
+- For example, a tag should have a tabindex="0", aria-label, on:click, on:keydown.
+- Ensure proper heading hierarchy and semantic HTML.
+- Add proper ARIA attributes where needed.
